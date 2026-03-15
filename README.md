@@ -61,7 +61,7 @@ Updated: Once a month | Current Focus: Backend Engineering
 ### C#
 | Format       | Resources                                                               | Progress   |
 | ------------ | ----------------------------------------------------------------------- | ---------- |
-| The C# Academy    |  [Learn .NET/C# With Real Projects](https://thecsharpacademy.com/)   |     ⬜       |
+| The C# Academy    |  [Learn .NET/C# With Real Projects](https://thecsharpacademy.com/) `12 projects`  |     ⬜       |
 | FreeCodeCamp  |  [Free Foundational C# with Microsoft Certification](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)   |     ⬜       |
 
 ### ReactJS
@@ -75,6 +75,11 @@ Updated: Once a month | Current Focus: Backend Engineering
 | Format       | Resources                                                               | Progress   |
 | ------------ | ----------------------------------------------------------------------- | ---------- |
 | Vercel     |  [ Next.js Foundations course](https://nextjs.org/learn/dashboard-app)   |     ⬜       |
+
+### Angular
+| Format       | Resources                                                               | Progress   |
+| ------------ | ----------------------------------------------------------------------- | ---------- |
+| YouTube     |  [Learn Angular in 2 HOURS - Ultimate Crash Course - 2026 Edition!](https://www.freecodecamp.org/learn/javascript-v9/) `02:09:21`   |     ⬜       |
 
 ### Express & NodeJs
 | Format       | Resources                                                               | Progress   |
