@@ -69,7 +69,8 @@ Updated: Once a month | Current Focus: Backend Engineering
 | ------------ | ----------------------------------------------------------------------- | ---------- |
 | Scrimba     |  [Learn React](https://scrimba.com/learn-react-c0e)   |     ✅       |
 | Scrimba     |  [Advanced React](https://scrimba.com/advanced-react-c02h)   |     ✅       |
-| YouTube  |  [React JS 19 Full Course 2025 Build an App and Master React in 2 Hours](https://fullstackopen.com/en/)   |     ✅       |
+| YouTube  |  [React JS 19 Full Course 2025 Build an App and Master React in 2 Hours](https://www.youtube.com/watch?v=dCLhUialKPQ)   |     ✅       |
+| YouTube  |  [React + Firebase TODO App — Auth & Full CRUD in 1 Hour](https://www.youtube.com/watch?v=2luSIsvC_B4)   |     ✅       |
 
 ### NextJS
 | Format       | Resources                                                               | Progress   |
