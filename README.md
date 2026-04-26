@@ -31,13 +31,13 @@ Updated: Once a month | Current Focus: Backend Engineering
 | Format       | Resources                                                               | Progress   |
 | ------------ | ----------------------------------------------------------------------- | ---------- |
 | Linkedin Learning     |  [Web Integration: Coding a Design in HTML and CSS](https://www.linkedin.com/learning/l-integration-web-coder-un-design-en-html-et-css)   |     ✅       |
-| Linkedin Learning     |  [HTML5 Essential Training](https://www.linkedin.com/learning/l-essentiel-du-html5-2)   |     ✅       |
+|     |  [HTML5 Essential Training](https://www.linkedin.com/learning/l-essentiel-du-html5-2)   |     ✅       |
 
 ### CSS
 | Format       | Resources                                                               | Progress   |
 | ------------ | ----------------------------------------------------------------------- | ---------- |
 | Linkedin Learning     |  [CSS Essential Training](https://www.linkedin.com/learning/l-essentiel-des-css-2)   |     ✅       |
-| Linkedin Learning     |  [CSS for Developers](https://www.linkedin.com/learning/css-for-developers-24925920)   |     ✅       |
+|      |  [CSS for Developers](https://www.linkedin.com/learning/css-for-developers-24925920)   |     ✅       |
 | Scrimba     |  [Learn Tailwind CSS](https://scrimba.com/learn-tailwind-css-c010)   |     ✅       |
 | YouTube     |  [Cours complet Tailwind CSS v4 2025](https://youtu.be/6biMWgD6_JY?si=_OQkBD4K-1tz_dcl)   |     ✅       |
 
@@ -70,7 +70,7 @@ Updated: Once a month | Current Focus: Backend Engineering
 | Scrimba     |  [Learn React](https://scrimba.com/learn-react-c0e)   |     ✅       |
 | Scrimba     |  [Advanced React](https://scrimba.com/advanced-react-c02h)   |     ✅       |
 | YouTube  |  [React JS 19 Full Course 2025 Build an App and Master React in 2 Hours](https://www.youtube.com/watch?v=dCLhUialKPQ)   |     ✅       |
-| YouTube  |  [React + Firebase TODO App — Auth & Full CRUD in 1 Hour](https://www.youtube.com/watch?v=2luSIsvC_B4)   |     ✅       |
+|  |  [React + Firebase TODO App — Auth & Full CRUD in 1 Hour](https://www.youtube.com/watch?v=2luSIsvC_B4)   |     ✅       |
 
 ### NextJS
 | Format       | Resources                                                               | Progress   |
@@ -86,7 +86,7 @@ Updated: Once a month | Current Focus: Backend Engineering
 | Format       | Resources                                                               | Progress   |
 | ------------ | ----------------------------------------------------------------------- | ---------- |
 | Scrimba     |  [Learn Node.js](https://scrimba.com/learn-nodejs-c00ho9qqh6)   |     ✅       |
-| Scrimba  |  [Learn Express.js](https://scrimba.com/learn-expressjs-c062las154)   |     ✅       |
+|   |  [Learn Express.js](https://scrimba.com/learn-expressjs-c062las154)   |     ✅       |
 | MDN  |  [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs)   |     ⬜       |
 
 ## Postman
@@ -105,6 +105,15 @@ Updated: Once a month | Current Focus: Backend Engineering
 | Format       | Resources                                                               | Progress   |
 | ------------ | ----------------------------------------------------------------------- | ---------- |
 | ProAWS     |  [Basic Elements of AWS](https://www.proaws.dev/tutorials/basic-elements-of-aws~hk2qv)   |     ⬜       |
+
+## AI
+
+| Format       | Resources                                                               | Progress   |
+| ------------ | ----------------------------------------------------------------------- | ---------- |
+|     AMD AI Academy      | [AI Agents 101: Building AI Agents with MCP and Open-Source Inference](https://academy.amd.com/#:cs166281)    |      ✅     |
+|          | [AI Agents 201: Design to Deployment: A Hands-On Guide to Multi-Agent Systems](https://academy.amd.com/#:cs166282)    |      ⬜     |
+|          | [Introduction to AI Agents](https://academy.amd.com/#:cs166324)    |      ⬜     |
+|Udacity   | [AWS AI & ML Scholars](https://www.udacity.com/learning-plan/aws-aiml-challenge) | ⬜|
 
 ---
 > Inspire by : [amitness](https://github.com/amitness)'s Repo [Learning](https://github.com/amitness/learning)
