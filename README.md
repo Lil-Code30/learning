@@ -80,7 +80,12 @@ Updated: Once a month | Current Focus: Backend Engineering
 ### Angular
 | Format       | Resources                                                               | Progress   |
 | ------------ | ----------------------------------------------------------------------- | ---------- |
-| YouTube     |  [Learn Angular in 2 HOURS - Ultimate Crash Course - 2026 Edition!](https://www.freecodecamp.org/learn/javascript-v9/) `02:09:21`   |     ⬜       |
+| YouTube     |  [Angular Tutorial for Beginners - Zero to Interview Ready - Angular 21](https://www.youtube.com/watch?v=Bf0SJZwd5Ck) `02:15:06`   |     `00:00:00`       |
+
+### Java
+| Format       | Resources                                                               | Progress   |
+| ------------ | ----------------------------------------------------------------------- | ---------- |
+| YouTube     |  [Java Full Course for free By Bro Code](https://www.youtube.com/watch?v=xTtL8E4LzTQ) `12:00:00`   |     `00:09:50`       |
 
 ### Express & NodeJs
 | Format       | Resources                                                               | Progress   |
@@ -100,6 +105,8 @@ Updated: Once a month | Current Focus: Backend Engineering
 | Format       | Resources                                                               | Progress   |
 | ------------ | ----------------------------------------------------------------------- | ---------- |
 | Article     |  [Docker for Beginners](https://docker-curriculum.com/)   |     ⬜       |
+|      |  [Docker Course Labs](https://docker.courselabs.co/)   |     ⬜       |
+| YouTube     |  [Docker pour les Débutants – Formation Complète 2026](https://www.youtube.com/watch?v=ZBpYixQkxuM) `02:11:59`  |     `00:00:00`     |
 
 ### AWS
 | Format       | Resources                                                               | Progress   |
@@ -113,7 +120,7 @@ Updated: Once a month | Current Focus: Backend Engineering
 |     AMD AI Academy      | [AI Agents 101: Building AI Agents with MCP and Open-Source Inference](https://academy.amd.com/#:cs166281)    |      ✅     |
 |          | [AI Agents 201: Design to Deployment: A Hands-On Guide to Multi-Agent Systems](https://academy.amd.com/#:cs166282)    |      ⬜     |
 |          | [Introduction to AI Agents](https://academy.amd.com/#:cs166324)    |      ⬜     |
-|Udacity   | [AWS AI & ML Scholars](https://www.udacity.com/learning-plan/aws-aiml-challenge) | ⬜|
+|Udacity   | [AWS AI & ML Scholars](https://www.udacity.com/learning-plan/aws-aiml-challenge) | ✅|
 
 ---
 > Inspire by : [amitness](https://github.com/amitness)'s Repo [Learning](https://github.com/amitness/learning)
