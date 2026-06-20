@@ -86,8 +86,9 @@ Updated: Once a month | Current Focus: Backend Engineering
 | Format       | Resources                                                               | Progress   |
 | ------------ | ----------------------------------------------------------------------- | ---------- |
 | YouTube     |  [Java Full Course for free By Bro Code](https://www.youtube.com/watch?v=xTtL8E4LzTQ) `12:00:00`   |     `00:47:40`       |
-| TutorialsPoint     |  [TutorialsPoint Java tutorial](https://www.tutorialspoint.com/java/index.htm) `13 sections`   |     `3/13`       |
-| JetBrains Academy     |  [Java practice tasks for beginners](https://academy.jetbrains.com/course/26571) `12 sections`   |     `5/12`       |
+|      |  [Java Concurrency and Multithreading By JakobJenkov](https://www.youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4) `27 videos`   |     `2/27`       |
+| TutorialsPoint     |  [TutorialsPoint Java tutorial](https://www.tutorialspoint.com/java/index.htm) `13 sections`   |     `7/13`       |
+| JetBrains Academy     |  [Java practice tasks for beginners](https://academy.jetbrains.com/course/26571) `12 sections`   |     `9/12`       |
 |      |  [Java Programming](https://academy.jetbrains.com/course/22499) `22 sections`   |     `0/22`       |
 |      |  [Java course complement to the AP Computer Science](https://academy.jetbrains.com/course/19188) `4 units`   |     `0/4`       |
 
