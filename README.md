@@ -2,8 +2,8 @@
 A running log of things I'm learning to build strong core software engineering skills
 Updated: Once a month | Current Focus: Backend Engineering
 
-> Since 2025, I am in a stage where I want to learn every thing that has to do with computer science and am still here wanting to learn more and more even in the area of AI. This is why I created this repo to list all my logs of things I'm learning (Archived, Completed or not, in progess)
-- Sometimes I share some topics and what I have learn here -> [Today I Learned](https://til-journal.vercel.app/)
+> Since end 2024, I am in a stage where I want to learn every thing that has to do with computer science and am still here wanting to learn more and more even in the area of AI. This is why I created this repo to list all my logs of things I'm learning (Archived, Completed or not, in progess)
+
 
 ## Data Structures and Algorithms
 
@@ -11,11 +11,15 @@ Updated: Once a month | Current Focus: Backend Engineering
 | ------------ | ----------------------------------------------------------------------- | ---------- |
 |           |    |           |
 
+---
+
 ## Maths
 
 | Format       | Resources                                                               | Progress   |
 | ------------ | ----------------------------------------------------------------------- | ---------- |
 |    MIT       | [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/course/)   |      ⬜     |
+
+---
 
 ## Complete Stack Path 
 | Format       | Resources                                                               | Progress   |
@@ -25,7 +29,25 @@ Updated: Once a month | Current Focus: Backend Engineering
 | Full Stack open  |  [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/) `14 courses`   |     `2/14`       |
 | FreeCodeCamp  |  [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design-v9/)   |     ✅       |
 
+---
+
 ## Technical Skills (Libraries/Frameworks/Tools)
+
+### Angular
+| Format       | Resources                                                               | Progress   |
+| ------------ | ----------------------------------------------------------------------- | ---------- |
+| YouTube     |  [Angular Tutorial for Beginners - Zero to Interview Ready - Angular 21](https://www.youtube.com/watch?v=Bf0SJZwd5Ck) `02:15:06`   |     `00:00:00`       |
+
+### Java
+| Format       | Resources                                                               | Progress   |
+| ------------ | ----------------------------------------------------------------------- | ---------- |
+| YouTube     |  [Java Full Course for free By Bro Code](https://www.youtube.com/watch?v=xTtL8E4LzTQ) `12:00:00`   |     `00:47:40`       |
+|      |  [Java Concurrency and Multithreading By JakobJenkov](https://www.youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4) `27 videos`   |    `17/27`       |
+| TutorialsPoint     |  [TutorialsPoint Java tutorial](https://www.tutorialspoint.com/java/index.htm) `13 sections`   |     `8/13`       |
+| JetBrains Academy     |  [Java practice tasks for beginners](https://academy.jetbrains.com/course/26571) `12 sections`   |     `9/12`       |
+|      |  [Java Programming](https://academy.jetbrains.com/course/22499) `22 sections`   |     `0/22`       |
+|      |  [Java course complement to the AP Computer Science](https://academy.jetbrains.com/course/19188) `4 units`   |     `0/4`       |
+| jenkov.com |  [Java JDBC](https://jenkov.com/tutorials/jdbc/index.html) `13 units`   |     ✅   |
 
 ### HTML
 | Format       | Resources                                                               | Progress   |
@@ -72,26 +94,6 @@ Updated: Once a month | Current Focus: Backend Engineering
 | YouTube  |  [React JS 19 Full Course 2025 Build an App and Master React in 2 Hours](https://www.youtube.com/watch?v=dCLhUialKPQ)   |     ✅       |
 |  |  [React + Firebase TODO App — Auth & Full CRUD in 1 Hour](https://www.youtube.com/watch?v=2luSIsvC_B4)   |     ✅       |
 
-### NextJS
-| Format       | Resources                                                               | Progress   |
-| ------------ | ----------------------------------------------------------------------- | ---------- |
-| Vercel     |  [ Next.js Foundations course](https://nextjs.org/learn/dashboard-app)   |     ⬜       |
-
-### Angular
-| Format       | Resources                                                               | Progress   |
-| ------------ | ----------------------------------------------------------------------- | ---------- |
-| YouTube     |  [Angular Tutorial for Beginners - Zero to Interview Ready - Angular 21](https://www.youtube.com/watch?v=Bf0SJZwd5Ck) `02:15:06`   |     `00:00:00`       |
-
-### Java
-| Format       | Resources                                                               | Progress   |
-| ------------ | ----------------------------------------------------------------------- | ---------- |
-| YouTube     |  [Java Full Course for free By Bro Code](https://www.youtube.com/watch?v=xTtL8E4LzTQ) `12:00:00`   |     `00:47:40`       |
-|      |  [Java Concurrency and Multithreading By JakobJenkov](https://www.youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4) `27 videos`   |    `2/27`       |
-| TutorialsPoint     |  [TutorialsPoint Java tutorial](https://www.tutorialspoint.com/java/index.htm) `13 sections`   |     `7/13`       |
-| JetBrains Academy     |  [Java practice tasks for beginners](https://academy.jetbrains.com/course/26571) `12 sections`   |     `9/12`       |
-|      |  [Java Programming](https://academy.jetbrains.com/course/22499) `22 sections`   |     `0/22`       |
-|      |  [Java course complement to the AP Computer Science](https://academy.jetbrains.com/course/19188) `4 units`   |     `0/4`       |
-
 ### Express & NodeJs
 | Format       | Resources                                                               | Progress   |
 | ------------ | ----------------------------------------------------------------------- | ---------- |
@@ -99,10 +101,26 @@ Updated: Once a month | Current Focus: Backend Engineering
 |   |  [Learn Express.js](https://scrimba.com/learn-expressjs-c062las154)   |     ✅       |
 | MDN  |  [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs)   |     ⬜       |
 
-## Postman
+---
+
+## Tools
+
+### Postman
 | Format       | Resources                                                               | Progress   |
 | ------------ | ----------------------------------------------------------------------- | ---------- |
 | Postman     |  [Postman Student Expert Program](https://www.postman.com/student-program/#postman-student-expert-program)   |     ✅       |
+
+---
+
+## Database
+
+### Relational DB
+| Format       | Resources                                                               | Progress   |
+| ------------ | ----------------------------------------------------------------------- | ---------- |
+| YouTube     |  [PostgreSQL Crash Course - Beginner Tutorial by NeuralNine](https://www.youtube.com/watch?v=gySEbKmkvEU) `00:59:48`  |     `00:41:38`    |
+| SQL     |  [Learn SQL with simple, interactive exercises](https://sqlbolt.com/) `18 Lessons`  |     `12/18`    |
+
+---
 
 ## DevOps and Cloud Engineering
 
@@ -118,8 +136,11 @@ Updated: Once a month | Current Focus: Backend Engineering
 | ------------ | ----------------------------------------------------------------------- | ---------- |
 | ProAWS     |  [Basic Elements of AWS](https://www.proaws.dev/tutorials/basic-elements-of-aws~hk2qv)   |     ⬜       |
 
-## AI
+---
 
+## AI Integration
+
+### AI Agents
 | Format       | Resources                                                               | Progress   |
 | ------------ | ----------------------------------------------------------------------- | ---------- |
 |     AMD AI Academy      | [AI Agents 101: Building AI Agents with MCP and Open-Source Inference](https://academy.amd.com/#:cs166281)    |      ✅     |
@@ -128,4 +149,7 @@ Updated: Once a month | Current Focus: Backend Engineering
 |Udacity   | [AWS AI & ML Scholars](https://www.udacity.com/learning-plan/aws-aiml-challenge) | ✅|
 
 ---
+
+## Miscellaneous
+
 > Inspire by : [amitness](https://github.com/amitness)'s Repo [Learning](https://github.com/amitness/learning)
