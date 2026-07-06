@@ -31,12 +31,7 @@ Updated: Once a month | Current Focus: Backend Engineering
 
 ---
 
-## Technical Skills (Libraries/Frameworks/Tools)
-
-### Angular
-| Format       | Resources                                                               | Progress   |
-| ------------ | ----------------------------------------------------------------------- | ---------- |
-| YouTube     |  [Angular Tutorial for Beginners - Zero to Interview Ready - Angular 21](https://www.youtube.com/watch?v=Bf0SJZwd5Ck) `02:15:06`   |     `00:00:00`       |
+## Technical Skills (Languages/Libraries/Frameworks)
 
 ### Java
 | Format       | Resources                                                               | Progress   |
@@ -48,6 +43,11 @@ Updated: Once a month | Current Focus: Backend Engineering
 |      |  [Java Programming](https://academy.jetbrains.com/course/22499) `22 sections`   |     `0/22`       |
 |      |  [Java course complement to the AP Computer Science](https://academy.jetbrains.com/course/19188) `4 units`   |     `0/4`       |
 | jenkov.com |  [Java JDBC](https://jenkov.com/tutorials/jdbc/index.html) `13 units`   |     ✅   |
+
+### Angular
+| Format       | Resources                                                               | Progress   |
+| ------------ | ----------------------------------------------------------------------- | ---------- |
+| YouTube     |  [Angular Tutorial for Beginners - Zero to Interview Ready - Angular 21](https://www.youtube.com/watch?v=Bf0SJZwd5Ck) `02:15:06`   |     `00:00:00`       |
 
 ### HTML
 | Format       | Resources                                                               | Progress   |
